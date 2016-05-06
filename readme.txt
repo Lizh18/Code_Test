@@ -5,4 +5,4 @@ This is the first time I use Git.
 
 AAA
 成功
-Git Track changes of files.
+Git Track changes of files and changes.
