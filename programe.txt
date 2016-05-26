@@ -1,0 +1,9 @@
+Main()
+{
+	println('hello world');
+}
+
+public void display()
+{
+	println('hehe');
+}
