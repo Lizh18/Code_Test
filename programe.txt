@@ -1,6 +1,6 @@
 Main()
 {
-	println('hello world');
+	println('111hello world');
 }
 
 public void display()
